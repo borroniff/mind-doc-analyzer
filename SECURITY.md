@@ -50,6 +50,7 @@ Em vez disso, envie um e-mail para adsprojetoapi@gmail.com
 
 ## Licença
 
+#### MIT License: https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-3/LICENSE
 #### Copyright
 #### MindDoc Analyzer - © 2024 Adalove.          
 
