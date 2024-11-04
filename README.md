@@ -69,7 +69,7 @@ Muitas empresas lidam com milhares de documentos diariamente, como currículos, 
 <div>
 <b>Análise de Relatórios de Casos Clínicos</b> é um projeto voltado para facilitar o acesso e a análise de dados extraídos de relatórios clínicos, organizando as informações de forma estruturada para que profissionais da área de psicologia possam trabalhar de maneira mais eficiente.
   <br>
-Descrição do Projeto: O objetivo é desenvolver um software que automatize a extração de informações essenciais dos relatórios clínicos, como diagnósticos, tratamentos e evolução do paciente, dentro de um hospital psiquiàtrico, organizando essas informações em um formato acessível.
+Descrição do Projeto: O objetivo é desenvolver um software que automatize a extração de informações essenciais dos relatórios clínicos, como diagnósticos, tratamentos e evolução do paciente, dentro de um hospital psiquiátrico, organizando essas informações em um formato acessível.
 <br>Nele, o usuário poderá:
 
 - Cadastrar relatórios clínicos no banco de dados, de forma simples e ágil.
@@ -78,6 +78,10 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 - Editar as informações extraídas dos relatórios.
 </div>
 <br>
+
+[A documentação completa está disponível aqui.](https://github.com/equipeAdalove/API-SEMESTRE2/wiki) 
+
+
 
 ## 🛠️ Arquitetura do Sistema 
 <a id="arq"></a>
