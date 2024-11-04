@@ -41,7 +41,7 @@
 <br>
 <br>
 
-> Status da Sprint: Em progresso! 🚀
+> Status da Sprint: Concluída! ✅
 
 <br>
 
