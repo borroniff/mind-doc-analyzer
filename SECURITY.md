@@ -39,3 +39,9 @@
  - O bcrypt, por outro lado, é intencionalmente lento, o que o torna mais adequado para proteger senhas.
 
 O bcrypt é uma escolha sólida para hashing de senhas devido às suas especificações técnicas e capacidade de adaptação ao longo do tempo. A combinação de um work factor ajustável, um salt de 128 bits e um hash seguro garante uma proteção robusta contra ataques comuns. Ao implementar o bcrypt, é essencial considerar as melhores práticas de segurança e manter-se atualizado com as recomendações da comunidade de segurança para proteger adequadamente os dados sensíveis.
+
+## Relatórios de problemas de segurança
+Por favor, não informe vulnerabilidades de segurança por meio de problemas públicos do GitHub.
+
+Em vez disso, envie um e-mail para adsprojetoapi@gmail.com
+
