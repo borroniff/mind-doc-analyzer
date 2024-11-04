@@ -178,6 +178,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | RQ12 | A aplicação deve conter uma interface minimalista e intuitiva.|Lista de requisitos|
 | RQ13 | O usuário terá acesso à documentação do projeto e aos guias de uso.|Acordo com o cliente|
 | RQ14 | O usuário poderá filtrar os relatório relevantes através das informações-chave do paciente(nome, patologia, etc.).|Acordo com o cliente|
+| RQ15 | O usuário poderá escolher qual modelo  de linguagem e visão irá utilizar. |Acordo com o cliente|
+
 
 </div>
 
@@ -197,15 +199,16 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  3  | RQ02 | Alta | Como usuário do sistema, quero uma interface de exibição dos dados extraídos de maneira estruturada e visual, para agilizar o uso do software. | 1 | ✅ |
 |  4  | RQ05 | Alta | Como cliente, quero que as informações extraídas sejam armazenadas em um banco de dados, para que não haja perda de dados. | 2 |  ✅ |
 |  5  | RQ08 | Média | Como administrador, quero ter a opção de deletar documentos do banco de dados para manter apenas informações relevantes. | 2 | ✅   |
-|  6  |  RQ06  | Média | Como contratante, quero consultar os relatórios já cadastrados no sistema, para otimizar meu trabalho diário e facilitar a tomada de decisões. | 3 |   |
-|  7  |  RQ07  | Média |Como contratante, quero ter a opção de editar as informações extraídas dos relatórios, para corrigir erros ou atualizar informações. | 2 |  ✅ |
-|  8  |  RQ10  | Média | Como administrador, quero garantir que a aplicação funcione localmente para preservar a privacidade dos dados e reduzir custos. | 2 | ✅    |
-|  9  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
-|  10   | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 |      |
-| 11  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 4 |    |
-| 12 | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 |   |
-| 13 | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 3 |   |
-| 14 |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 |   |
+|  6  |  RQ06  | Média | Como contratante, quero consultar os relatórios já cadastrados no sistema, para otimizar meu trabalho diário e facilitar a tomada de decisões. | 3 | ✅  |
+|  7  |  RQ07  | Média |Como contratante, quero ter a opção de editar as informações extraídas dos relatórios, para corrigir erros ou atualizar informações. | 2 | ✅ |
+|  8  |  RQ15  | Média |Como cliente, quero ter a possibilidade de escolha do modelo de linguagem e visão, buscando a análise mais precisa, para cada caso específico. | 3 |  |
+|  9  |  RQ10  | Média | Como administrador, quero garantir que a aplicação funcione localmente para preservar a privacidade dos dados e reduzir custos. | 2 | ✅    |
+| 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
+|  11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
+| 12  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 |    |
+| 13  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 3 | ✅  |
+| 14  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 3 | ✅ |
+| 15  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 3 |   |
 </div>
 
 <br>
