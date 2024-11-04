@@ -48,3 +48,10 @@ Em vez disso, envie um e-mail para adsprojetoapi@gmail.com
 ## Idiomas
 É preferível que as comunicações sejam feitas em português ou com o idioma declarado (e, se possível, com alternativas).
 
+## Licença
+
+#### Copyright
+#### MindDoc Analyzer - © 2024 Adalove.          
+
+### Todos os direitos reservados.
+
