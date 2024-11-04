@@ -45,3 +45,6 @@ Por favor, não informe vulnerabilidades de segurança por meio de problemas pú
 
 Em vez disso, envie um e-mail para adsprojetoapi@gmail.com
 
+## Idiomas
+É preferível que as comunicações sejam feitas em português ou com o idioma declarado (e, se possível, com alternativas).
+
