@@ -36,7 +36,13 @@
 
 <img align="center" alt="Raphs-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
+<img align="center" alt="Raphs-SQLite" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
+
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
+
+<img align="center" alt="Raphs-Maven" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
+
+<img align="center" alt="Raphs-JUnit" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">
 
 <img align="center" alt="Raphs-IntelliJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
 
