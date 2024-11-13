@@ -1,7 +1,4 @@
-[submodule "Front-API-SEMESTRE2"]
-    path = Front-API-SEMESTRE2
-    url = https://github.com/equipeAdalove/Front-API-SEMESTRE2.git
-    branch = main
+
 [submodule "Back-API-SEMESTRE2"]
 	path = Back-API-SEMESTRE2
 	url = git@github.com:equipeAdalove/Back-API-SEMESTRE2.git
