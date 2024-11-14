@@ -86,8 +86,9 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 |  1    |    RQ13   | Implementar a função de Consulta de relatórios| Implementar a função de consulta de relatórios cadastrados no banco de dados relacional (MySQL). | 3 | ✅ |
 |  2    |    RQ14    | Desenvolver mecansimo de filtragem de informações | Criar mecanismo de filtragem, para que os usuários possam buscar relatórios com base em dados específicos. | 3 | ✅  |
 |  3    |    RQ04 - RQ12   |  Testes com foco na interface. | Melhorar a jornada do usuário, tornando o cadastro e visualização dos dados mais amigável e intuitiva. | 3 | ✅  |
-|  4    |    RQ07    | Implementar a função de escolha do modelo. |Melhora a experiência do usuário, permitindo a troca da IA | 3 | ✅ |
-|  5    |    RQ10    | Criação de Guias para Usuários | Revisar a documentação do usuário, incluindo guias de uso e procedimentos para utilização do sistema. | 3 | ✅ |
+|  4    |    -   |  Implementar o sistema de autenticação e autorização. | Implementar o sistema de autenticação e autorização, priorizando a segurança. | 3 | ✅  |
+|  5   |    RQ07    | Implementar a função de escolha do modelo. |Melhora a experiência do usuário, permitindo a troca da IA | 3 | ✅ |
+|  6    |    RQ10    | Criação de Guias para Usuários | Revisar a documentação do usuário, incluindo guias de uso e procedimentos para utilização do sistema. | 3 | ✅ |
 
 
 </div>
