@@ -83,14 +83,12 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
       
 |   Rank  |   Requisito   | Tarefa |                          Descrição                             | Sprint | Status  |
 | :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|  1    |      -     | Estudo do funcionamento do CRUD |  Configurar e estudar o funcionamento do CRUD no MySQL. | 2 | ✅ |
-|  2    |    RQ05    | Implementar o CRUD (Cadastro de informações) | Implementar a lógica para cadastro de informações extraídas no banco de dados relacional (MySQL). | 2 | ✅  |
-|  3    |    RQ08    | Implementar o CRUD (Deletar relatórios) | Desenvolver a funcionalidade de exclusão de informações do banco de dados relacional (MySQL). | 2 | ✅  |
-|  4    |    RQ07    | Implementar o CRUD (Edição de informações) | Implementar a lógica para editar as informações extraídas no banco de dados relacional (MySQL). | 2 | ✅ |
-|  5    |    RQ10    | Trabalhar no funcionamento do projeto, localmente | Implementar uma função que permita consultar os documentos previamente cadastrados. | 2 | ✅ |
-|  6    |    RQ02    | Testes de Extração e Cadastro | Realizar testes manuais e automáticos para validar a extração de informações e o cadastro no banco de dados. | 2 | :✅ |
-|  7    |      -     | Início da documentação do projeto | Criar e revisar a documentação, incluindo arquitetura, processo de desenvolvimento e guia de uso. | 2 | ✅ |
-|  8    |      -     | Integração do GitHub de maneira automatizada | Estudo da integração do GitHub com outras aplicações, e ferramenta de gestão de tarefas. | 2 | ✅ |
+|  1    |    RQ13   | Implementar a função de Consulta de relatórios| Implementar a função de consulta de relatórios cadastrados no banco de dados relacional (MySQL). | 3 | ✅ |
+|  2    |    RQ14    | Desenvolver mecansimo de filtragem de informações | Criar mecanismo de filtragem, para que os usuários possam buscar relatórios com base em dados específicos. | 3 | ✅  |
+|  3    |    RQ04 - RQ12   |  Testes com foco na interface. | Melhorar a jornada do usuário, tornando o cadastro e visualização dos dados mais amigável e intuitiva. | 3 | ✅  |
+|  4    |    RQ07    | Implementar a função de escolha do modelo. |Melhora a experiência do usuário, permitindo a troca da IA | 3 | ✅ |
+|  5    |    RQ10    | Criação de Guias para Usuários | Revisar a documentação do usuário, incluindo guias de uso e procedimentos para utilização do sistema. | 3 | ✅ |
+
 
 </div>
 
@@ -99,7 +97,7 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 ## ☕ Tarefas
 <a id="tasks"></a>
 
-### 1. Implementação do CRUD
+### 1. Melhora do CRUD
 "Create, Read, Update, Delete", utilizadas para manipular dados em um sistema de gerenciamento de banco de dados, ou seja, o usuário já consegue **cadastrar**,**acessar**, **atualizar** e **apagar** informações do sistema.
 
 ### 2. Documentação
@@ -114,6 +112,10 @@ Visando um sistema mais rápido, confiável e seguro, melhorando a experiência 
 
 ## 🎥 Demonstração:
 <a id="demo"></a>
+
+
+https://github.com/user-attachments/assets/46fa91bb-0959-4f78-bd56-3a916ec5a9cb
+
 
 ###
 
