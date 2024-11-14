@@ -195,6 +195,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | RQ14 | O usuário poderá filtrar os relatório relevantes através das informações-chave do paciente(nome, patologia, etc.).|Acordo com o cliente|
 | RQ15 | O usuário poderá escolher qual modelo  de linguagem e visão irá utilizar. |Acordo com o cliente|
 | RQ16 | O usuário poderá utilizar o software a partir de um arquivo executável. |Acordo com o cliente|
+| RQ17 | O software terá um sistema de autenticção e autor. |Acordo com o cliente|
 
 
 
@@ -223,10 +224,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
 | 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
 | 12  | RQ12 | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 3 | ✅ |
-| 13  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 4 |  |
-| 14  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 |   |
-| 15  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 |  |
-| 16  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 |   |
+| 13  | RQ12 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
+| 14  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 4 |  |
+| 15  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 |   |
+| 16  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 |  |
+| 17  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 |   |
 </div>
 
 <br>
