@@ -225,7 +225,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
 | 12  | RQ12 | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 3 | ✅ |
 | 13  | RQ12 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
-| 14  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 4 |  |
+| 14  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
 | 15  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 |   |
 | 16  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 |  |
 | 17  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 |   |
