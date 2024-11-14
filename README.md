@@ -73,14 +73,14 @@ Muitas empresas lidam com milhares de documentos diariamente, como currículos, 
 ## 🫧 MVP (Minimal Viable Product) 
 <a id="mvp"></a>
 <div>
-<b>Análise de Relatórios de Casos Clínicos</b> é um projeto voltado para facilitar o acesso e a análise de dados extraídos de relatórios clínicos, organizando as informações de forma estruturada para que profissionais da área de psicologia possam trabalhar de maneira mais eficiente.
+<b> MindDoc Analyzer</b> é um projeto voltado para facilitar o acesso e a análise de dados extraídos de relatórios clínicos, organizando as informações de forma estruturada para que profissionais da área de psicologia possam trabalhar de maneira mais eficiente.
   <br>
 Descrição do Projeto: O objetivo é desenvolver um software que automatize a extração de informações essenciais dos relatórios clínicos, como diagnósticos, tratamentos e evolução do paciente, dentro de um hospital psiquiátrico, organizando essas informações em um formato acessível.
 <br>Nele, o usuário poderá:
 
 - Cadastrar relatórios clínicos no banco de dados, de forma simples e ágil.
 - Consultar, atualizar e deletar relatórios cadastrados.
-- Extrair as informações essenciais dos documentos,relacionadas aos pacientes.
+- Extrair as informações essenciais dos documentos, relacionadas aos pacientes.
 - Editar as informações extraídas dos relatórios.
 </div>
 <br>
@@ -92,7 +92,7 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 ## 🛠️ Arquitetura do Sistema 
 <a id="arq"></a>
 <div>
-      Tendo em vista que a arquitetura do software de <b>Análise de Relatórios de Casos Clínicos</b> precisa equilibrar os requisitos funcionais e não funcionais, como privacidade de dados, desempenho, usabilidade e a independência de APIs externas. <br>
+      Tendo em vista que a arquitetura do  <b>MindDoc Analyzer</b> precisa equilibrar os requisitos funcionais e não funcionais, como privacidade de dados, desempenho, usabilidade e a independência de APIs externas. <br>
       Uma arquitetura modular e escalável foi desenhada com base nesses aspectos, dividida em camadas.
 
 [Leia mais sobre a arquitetura do software!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki/2.-Arquitetura-do-Sistema) 
@@ -222,8 +222,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  9  |  RQ10  | Média | Como administrador, quero garantir que a aplicação funcione localmente para preservar a privacidade dos dados e reduzir custos. | 2 | ✅ |
 | 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
 | 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
-| 12  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
-| 13  | RQ16 | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 4 |  |
+| 12  | RQ12 | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 3 | ✅ |
+| 13  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 4 |  |
 | 14  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 |   |
 | 15  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 |  |
 | 16  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 |   |
