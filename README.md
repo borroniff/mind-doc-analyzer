@@ -17,7 +17,7 @@
   <a href = "#requisitos"> Requisitos </a> | 
   <a href = "#metodologia"> Metodologia </a> |  
   <a href = "#backlog"> Backlog do Produto </a>  | 
-  <!-- <a href ="#roadmap"> Roadmap </a>  | -->
+  <a href ="#roadmap"> Roadmap </a>  |
   <a href = "#equipe"> Equipe </a>  |
   <a href = "#docentes"> Docentes </a>
 </p>
@@ -234,6 +234,11 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 </div>
 
 <br>
+      
+## ⛰️ Roadmap de entregas 
+<a id="roadmap"></a>
+<img src = "Documentação/Assets/Slides/6.jpg">
+
 
 <br>
 
