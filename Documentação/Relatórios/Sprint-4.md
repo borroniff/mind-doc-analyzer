@@ -27,8 +27,6 @@
 
 <img align="center" alt="Raphs-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
-<img align="center" alt="Raphs-SQLite" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
 <img align="center" alt="Raphs-IntelliJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
@@ -43,7 +41,7 @@
 <br>
 <br>
 
-> Status da Sprint: Em progresso! 🚀
+> Status da Sprint: Concluída! ✅
 
 <br>
 
@@ -85,11 +83,10 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
       
 |   Rank  |   Requisito   | Tarefa |                          Descrição                             | Sprint | Status  |
 | :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|  1   |  RQ16  | Criar arquivo executável | Criar um arquivo executável do software, visando a facilidade de acesso. | 4 |  |
-|  2   |  RQ13  | Revisão da documentação | Revisar a documentação do usuário, guias de uso e procedimentos para utilização do sistema. | 4 | ✅  |
-|  4   |    -   | Alteração no BD - SQL para SQLite | Transferir o banco de dados, MySQL para SQLite, visando a otimização e desempenho do sistema. | 4 |  |
-|  4   |    -   | Implementar a função de escolha do modelo. | Rodada de testes para garantir que todas as funcionalidades estejam funcionando  e que o sistema esteja pronto. | 4 | ✅ |
-|  5   |    -   | Otimização do Sistema | Realizar otimizações no sistema para melhorar o desempenho e corrigir pequenos bugs identificados durante o uso. | 4 |  |
+|  1   |  RQ13  | Revisão da documentação | Revisar a documentação do usuário, guias de uso e procedimentos para utilização do sistema. | 4 | ✅  |
+|  2   |    -   | Realizar últimos testes no software | dada de testes para garantir que todas as funcionalidades estejam funcionando  e que o sistema esteja pronto. | 4 | ✅ |
+|  3   |    -   | Correção de bugs na aplicação | Realizar otimizações no sistema para melhorar o desempenho e corrigir pequenos bugs identificados durante o uso.   | 4 | ✅ |
+|  4   |    -   | Entrega final | Atualização do GitHub. | 4 |  |
 
 
 </div>
@@ -99,13 +96,10 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 ## ☕ Tarefas
 <a id="tasks"></a>
 
-### 1. Melhora do CRUD
-"Create, Read, Update, Delete", utilizadas para manipular dados em um sistema de gerenciamento de banco de dados, ou seja, o usuário já consegue **cadastrar**,**acessar**, **atualizar** e **apagar** informações do sistema.
-
-### 2. Documentação
+### 1. Documentação
 [Clique aqui para visualizar a documentação do projeto!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki)
 
-### 3. Testes de software
+### 2. Testes de software
 Visando um sistema mais rápido, confiável e seguro, melhorando a experiência geral do usuário.
 
 <br>
@@ -114,9 +108,6 @@ Visando um sistema mais rápido, confiável e seguro, melhorando a experiência 
 
 ## 🎥 Demonstração:
 <a id="demo"></a>
-
-
-https://github.com/user-attachments/assets/46fa91bb-0959-4f78-bd56-3a916ec5a9cb
 
 
 ###
