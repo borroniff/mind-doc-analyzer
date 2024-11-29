@@ -36,8 +36,6 @@
 
 <img align="center" alt="Raphs-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
-<img align="center" alt="Raphs-SQLite" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg">
-
 <img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 
 <img align="center" alt="Raphs-Maven" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
@@ -59,7 +57,7 @@
 <br>
 <br>
 
-> Status do Projeto: Em progresso! 🛠
+> Status do Projeto: Concluído! ✅
 
 <br>
 
@@ -170,7 +168,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 🥇 SPRINT 3:  Concluída! <br>
 [Clique para visualizar o relatório da 3° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-3/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-3.md)
 
-🚀 SPRINT 4:  Em progresso!
+🥇 SPRINT 4:  Concluída! <br>
+[Clique para visualizar o relatório da 4° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-3/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-4.md)
 
 <br>
 
@@ -235,6 +234,8 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
       
 ## ⛰️ Roadmap de entregas 
 <a id="roadmap"></a>
+<img align = "center" src = Documentação/Assets/Slides/6.jpg>
+
 
 <br>
 
