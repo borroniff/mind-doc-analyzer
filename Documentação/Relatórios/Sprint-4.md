@@ -86,7 +86,7 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 |  1   |  RQ13  | Revisão da documentação | Revisar a documentação do usuário, guias de uso e procedimentos para utilização do sistema. | 4 | ✅  |
 |  2   |    -   | Realizar últimos testes no software | dada de testes para garantir que todas as funcionalidades estejam funcionando  e que o sistema esteja pronto. | 4 | ✅ |
 |  3   |    -   | Correção de bugs na aplicação | Realizar otimizações no sistema para melhorar o desempenho e corrigir pequenos bugs identificados durante o uso.   | 4 | ✅ |
-|  4   |    -   | Entrega final | Atualização do GitHub. | 4 |  |
+|  4   |    -   | Entrega final | Atualização do GitHub. | 4 | ✅ |
 
 
 </div>
