@@ -196,8 +196,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | RQ13 | O usuário terá acesso à documentação do projeto e aos guias de uso.|Acordo com o cliente|
 | RQ14 | O usuário poderá filtrar os relatório relevantes através das informações-chave do paciente(nome, patologia, etc.).|Acordo com o cliente|
 | RQ15 | O usuário poderá escolher qual modelo  de linguagem e visão irá utilizar. |Acordo com o cliente|
-| RQ16 | O usuário poderá utilizar o software a partir de um arquivo executável. |Acordo com o cliente|
-| RQ17 | O software terá um sistema de autenticação e autor. |Acordo com o cliente|
+| RQ16 | O software terá um sistema de autenticação e autorização. |Acordo com o cliente|
 
 
 
@@ -216,7 +215,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
 |  1  |  RQ01 - RQ02 | Alta | Como requerente, quero que o sistema extraia informações textuais automaticamente dos documentos para que eu não precise fazer isso manualmente. | 1 | ✅ |
 |  2  | RQ03 - RQ05 | Alta | Como usuário do sistema, quero uma interface simples e intuitiva para cadastrar os documentos no software. | 1 |  ✅  |
-|  3  | RQ02 | Alta | Como usuário do sistema, quero uma interface de exibição dos dados extraídos de maneira estruturada e visual, para agilizar o uso do software. | 1 | ✅ |
+|  3  | RQ02 - RQ04 | Alta | Como usuário do sistema, quero uma interface de exibição dos dados extraídos de maneira estruturada e visual, para agilizar o uso do software. | 1 | ✅ |
 |  4  | RQ05 | Alta | Como cliente, quero que as informações extraídas sejam armazenadas em um banco de dados, para que não haja perda de dados. | 2 |  ✅ |
 |  5  | RQ08 | Média | Como administrador, quero ter a opção de deletar documentos do banco de dados para manter apenas informações relevantes. | 2 | ✅   |
 |  6  |  RQ06  | Média | Como contratante, quero consultar os relatórios já cadastrados no sistema, para otimizar meu trabalho diário e facilitar a tomada de decisões. | 3 | ✅  |
@@ -225,20 +224,17 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  9  |  RQ10  | Média | Como administrador, quero garantir que a aplicação funcione localmente para preservar a privacidade dos dados e reduzir custos. | 2 | ✅ |
 | 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
 | 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
-| 12  | RQ12 | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 3 | ✅ |
-| 13  | RQ12 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
-| 14  | RQ16 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
-| 15  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 | ✅  |
-| 16  | RQ12 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 | ✅ |
-| 17  |  RQ12  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 | ✅ |
+| 12  | RQ16 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
+| 13  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
+| 14  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 | ✅  |
+| 15  | RQ02 - RQ05 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 | ✅ |
+| 16  |  -  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 | ✅ |
 </div>
 
 <br>
       
 ## ⛰️ Roadmap de entregas 
 <a id="roadmap"></a>
-<img src = "Documentação/Assets/Slides/6.jpg">
-
 
 <br>
 
@@ -246,18 +242,23 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
       
 ## 🥇 Equipe 
 <a id="equipe"></a>
+
+<a href="https://github.com/equipeAdalove/Back-API-SEMESTRE2/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=equipeAdalove/Back-API-SEMESTRE2&columns=18" alt="Avatars of all contributors"></a>
+
+
       
 |      Membro      |    Função     |                            Github                            |                           Linkedin                           |
 | :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Raphaela Monteiro  | Product Owner | <a href="https://github.com/raphaelamonteiro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/raphaelamonteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Vitor Ribeiro | Scrum Master | <a href="https://github.com/ribeirovitor04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Angelina Borroni | Desenvolvedor  | <a href="https://github.com/borroniff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/angelina-borroni-ferreira-833a4b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Celso Rocha | Desenvolvedor | <a href="https://github.com/celsick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Maria Fernanda Hansen | Desenvolvedor | <a href="https://github.com/Madhs31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/maria-fernanda-diniz-0724122ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Matheus Germano | Desenvolvedor | <a href="https://github.com/m-germano"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Renan Tomasi | Desenvolvedor | <a href="https://github.com/renan21-tg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |      
+| Angelina Borroni | Dev Team  | <a href="https://github.com/borroniff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/angelina-borroni-ferreira-833a4b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Celso Rocha | Dev Team | <a href="https://github.com/celsick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Maria Fernanda Hansen | Dev Team | <a href="https://github.com/Madhs31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/maria-fernanda-diniz-0724122ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Matheus Germano | Dev Team | <a href="https://github.com/m-germano"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Renan Tomasi | Dev Team | <a href="https://github.com/renan21-tg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |      
 
 <br>
+
 
 ## 🗝️ Docentes: 
 <a id="docentes"></a>
