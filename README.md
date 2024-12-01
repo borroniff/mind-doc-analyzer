@@ -93,7 +93,7 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
       Tendo em vista que a arquitetura do  <b>MindDoc Analyzer</b> precisa equilibrar os requisitos funcionais e não funcionais, como privacidade de dados, desempenho, usabilidade e a independência de APIs externas. <br>
       Uma arquitetura modular e escalável foi desenhada com base nesses aspectos, dividida em camadas.
 
-[Leia mais sobre a arquitetura do software!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki/2.-Arquitetura-do-Sistema) 
+[Leia mais sobre a arquitetura do software!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki/3.-Arquitetura-do-Sistema) 
 
 <br>
 
@@ -144,7 +144,7 @@ https://github.com/user-attachments/assets/62737194-da5e-4690-abf2-036ed8ce06db
 
 ### 📂 Sprint 4:
 
-https://github.com/user-attachments/assets/4fe6a0ae-2220-44d6-81ff-741e527fa4b6
+https://github.com/user-attachments/assets/09271e88-c83b-4651-ac8e-a33ceca6f24e
 
 
 <br>
@@ -226,11 +226,10 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
 | 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
 | 12  | RQ16 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
-| 13 | - | Baixa | Como cliente, quero utilizar a aplicação através de um arquivo executável, com o objetivo de diminuir a complexidade do uso do sistema. | 4 | ❎  |
-| 14  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
-| 15  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 | ✅  |
-| 16  | RQ02 - RQ05 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 | ✅ |
-| 17  |  -  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 | ✅ |
+| 13  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
+| 14  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 | ✅  |
+| 15  | RQ02 - RQ05 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 | ✅ |
+| 16  |  -  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 | ✅ |
 </div>
 
 <br>
