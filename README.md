@@ -1,104 +1,46 @@
-<h1 align="center"> API ADS 2º Semestre</h1>
+<div align="center">
 
-<p align="center">
-      <img src="Documentação/Assets/Banner - projeto.png" alt="Adalove" width="800">
-      
-<br>
+<img width="820" height="312" alt="image" src="https://github.com/user-attachments/assets/35d80930-1c38-4210-8ca0-a96a06d66481" />
 
-<hr>
-<br>
-<p align = "center">
-  <a href = "#desafio"> Desafio </a>  |   
-  <a href = "#mvp"> MVP </a>  |
-  <a href = "#arq"> Arquitetura </a>  |
-  <a href ="#prototipo"> Protótipo </a>  | 
-  <a href = "#demo"> Demonstração </a>  |
-  <a href = "#sprint"> Sprints </a> |
-  <a href = "#requisitos"> Requisitos </a> | 
-  <a href = "#metodologia"> Metodologia </a> |  
-  <a href = "#backlog"> Backlog do Produto </a>  | 
-  <a href ="#roadmap"> Roadmap </a>  |
-  <a href = "#equipe"> Equipe </a>  |
-  <a href = "#docentes"> Docentes </a>
-</p>
-
-<h1 align="center">
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="Raphs-Jira" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg">
-
-<img align="center" alt="Raphs-Trello" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg">
-
-<img align="center" alt="Raphs-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Raphs-Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-
-<img align="center" alt="Raphs-MySQL" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-
-<img align="center" alt="Raphs-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
-<img align="center" alt="Raphs-Maven" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
-
-<img align="center" alt="Raphs-JUnit" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain.svg">
-
-<img align="center" alt="Raphs-IntelliJ" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg">
-
-<img align="center" alt="Raphs-Figma" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
-<img align="center" alt="Raphs-Ollama" height="50" width="50" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
-       
-</div>
-
-  </a>
-</h4>
-
-
-<br>
-<br>
-
-> Status do Projeto: Concluído! ✅
-
-<br>
-
-## 🏁 Desafio: Software para automatizar a extração de informações de documentos 
-<a id="desafio"></a>
-
-Muitas empresas lidam com milhares de documentos diariamente, como currículos, contas, notas fiscais e assim por diante. Porém, extrair informações destes documentos é uma atividade difícil que depende da atividade humana (mais lenta que computadores) pois apenas retirar o texto pode não ser suficiente visto que as informações dependem do layout visual.<br>
-**O objetivo deste API é desenvolver um software para automatizar a extração de informações de documentos usando modelos de linguagem e visão.**
-<br>
-
-## 🫧 MVP (Minimal Viable Product) 
-<a id="mvp"></a>
-<div>
-<b> MindDoc Analyzer</b> é um projeto voltado para facilitar o acesso e a análise de dados extraídos de relatórios clínicos, organizando as informações de forma estruturada para que profissionais da área de psicologia possam trabalhar de maneira mais eficiente.
-  <br>
-Descrição do Projeto: O objetivo é desenvolver um software que automatize a extração de informações essenciais dos relatórios clínicos, como diagnósticos, tratamentos e evolução do paciente, dentro de um hospital psiquiátrico, organizando essas informações em um formato acessível.
-<br>Nele, o usuário poderá:
-
-- Cadastrar relatórios clínicos no banco de dados, de forma simples e ágil.
-- Consultar, atualizar e deletar relatórios cadastrados.
-- Extrair as informações essenciais dos documentos, relacionadas aos pacientes.
-- Editar as informações extraídas dos relatórios.
 </div>
 <br>
 
-[A documentação completa está disponível aqui.](https://github.com/equipeAdalove/API-SEMESTRE2/wiki) 
+> Concluído em: 12/12/2024 ✔️
 
+## 🏁 Desafio: <a id="desafio"></a>
+Desenvolver um software capaz de automatizar a extração e manipulação de informações de documentos através do uso de modelos de linguagem e visão. A escolha do viés de documento a ser analisado é de livre escolha da equipe.
 
+## 🫧 MVP (Produto Mínimo Viável) <a id="mvp"></a>
+O MindDoc Analyzer é um software desenvolvido para otimizar a rotina de profissionais de psicologia e psiquiatria. O projeto visa automatizar a extração de dados essenciais de relatórios clínicos (como diagnósticos, tratamentos e evolução de pacientes) e estruturar essas informações em um formato acessível, reduzindo o trabalho manual e aumentando a eficiência das análises em hospitais e clínicas, mantendo sempre a segurança das informações confidenciais envolvidas.
+<br><br>
+Dentre as funcionalidades principais, destacam-se:
+1. Extração Inteligente ➔ Captura automatizada de informações cruciais diretamente dos documentos. <br>
+2. Gestão de Relatórios ➔ Interface ágil para operações de cadastro, consulta, atualização e exclusão. <br>
+3. Revisão e Validação ➔ Ambiente para edição e correção manual, assegurando a precisão dos dados. <br>
+4. Estruturação de Dados ➔ Transformação de dados brutos e não estruturados em insights organizados para análise.
 
-## 🛠️ Arquitetura do Sistema 
-<a id="arq"></a>
-<div>
-      Tendo em vista que a arquitetura do  <b>MindDoc Analyzer</b> precisa equilibrar os requisitos funcionais e não funcionais, como privacidade de dados, desempenho, usabilidade e a independência de APIs externas. <br>
-      Uma arquitetura modular e escalável foi desenhada com base nesses aspectos, dividida em camadas.
+## 👩‍💻 Minha Atuação - Dev. Team
+Durante o desenvolvimento do projeto, minhas principais responsabilidades incluíram:
 
-[Leia mais sobre a arquitetura do software!](https://github.com/equipeAdalove/API-SEMESTRE2/wiki/3.-Arquitetura-do-Sistema) 
+* **Desenvolvimento Backend** - Responsável por desenvolver todo o fluxo de dados, criando as rotas de criação (Create), leitura (Read), atualização (Update) e exclusão (Delete).
+* **Modelagem de Banco de Dados** - Estruturação das entidades, criação de tabelas e definição dos relacionamentos para suportar a aplicação.
+* **Integração e Consultas SQL** - Desenvolvimento e otimização dos scripts e queries em SQL para a manipulação, persistência e busca de informações no banco de dados.
+* **Disponibilização de APIs** - Criação dos endpoints necessários para que o frontend pudesse se comunicar e consumir os dados do banco de forma eficiente e segura.
 
-<br>
+## 📅 Cronograma <a id="sprint"></a>
+| Eventos | Datas |
+| ------ | :----: |
+| 💡 **Kick-off** | 29/08/2024 |
+| 💻 **Desenvolvimento** | 09/09/24 – 01/12/24 |
+| 🎯 **Feira de soluções** | 12/12/2024 |
 
-## ✨ Protótipo do Programa 
-<a id="prototipo"></a>
+## ⌛ Roadmap de Entregas
+<div align="center">
+<img width="2690" height="1195" alt="Gemini_Generated_Image_g5vgwcg5vgwcg5vg" src="https://github.com/user-attachments/assets/b412ff98-fc4e-4fa1-a294-e1b9cd4b988c" />
+</div>
+
+## ✨ Protótipo da Aplicação <a id="prototipo"></a>
+
 <div align="center">
       
 <table>
@@ -121,156 +63,38 @@ Descrição do Projeto: O objetivo é desenvolver um software que automatize a e
 </table>
 </div>
 
+## 🎥 Demonstração do Software
 
-<br>
-
-
-<br>
-
-## 🎥 Demonstração 
 <a id="demo"></a>
 
-### 📂 Sprint 1:
+Em breve!
 
-https://github.com/user-attachments/assets/96557c71-b80d-4824-b944-248d78d41f0c
+## 🛠️ Tecnologias
 
-### 📂 Sprint 2:
+**Desenvolvimento & Interface**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-%235C2D91.svg?style=for-the-badge&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-https://github.com/user-attachments/assets/bd102672-0b0c-4e7b-80ff-fdfbdb32a9fc
+**Banco de Dados & IA**  
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-White?style=for-the-badge&logo=ollama&logoColor=black)
 
-### 📂 Sprint 3:
+**Infraestrutura & Ferramentas**  
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-https://github.com/user-attachments/assets/62737194-da5e-4690-abf2-036ed8ce06db
+**Gestão & Design**  
+![Jira](https://img.shields.io/badge/jira-%23172B4D.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230079BF.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 📂 Sprint 4:
+## 📖 Guia de Instalação <a id="manual"></a>
 
-https://github.com/user-attachments/assets/09271e88-c83b-4651-ac8e-a33ceca6f24e
-
-
-<br>
-
-## 📖 Metodologia 
-<a id="metodologia"></a>
-Este é um projeto pedagógico alicerçado na Metodologia API, baseado na metodologia ágil SCRUM, para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. <br>
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). <br>
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints.
-[Ler mais](https://fatecsjc-prd.azurewebsites.net/aprendizagem-por-projetos-integrados)
-
-<br>
-
-## 📅 Sprints 
-<a id="sprint"></a>
-
-🥇 SPRINT 1:  Concluída! <br>
-[Clique para visualizar o relatório da 1° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-1/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-1.md)
-
-🥇 SPRINT 2:  Concluída! <br>
-[Clique para visualizar o relatório da 2° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-2/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-2.md)
-
-🥇 SPRINT 3:  Concluída! <br>
-[Clique para visualizar o relatório da 3° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-3/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-3.md)
-
-🥇 SPRINT 4:  Concluída! <br>
-[Clique para visualizar o relatório da 4° Sprint](https://github.com/equipeAdalove/API-SEMESTRE2/blob/Sprint-3/Documenta%C3%A7%C3%A3o/Relat%C3%B3rios/Sprint-4.md)
+Em breve!
 
 <br>
 
-## 🖇️ Requisitos
-<a id="requisitos"></a>
-
-<div align="center">
-
-|          ID           |                     Descrição                      |         Origem          |
-| :-------------------: | :----------------------------------------------------------: | :-------------: |
-| RQ01 | O usuário poderá submeter documentos para modelos de linguagem e visão. |Lista de requisitos|
-| RQ02 | O software deverá tratar a saída dada por esses modelos.|Lista de requisitos|
-| RQ03 | Criar uma interface para submissão de documentos.|Lista de requisitos|
-| RQ04 | Criar uma interface para exibir resultados.|Lista de requisitos|
-| RQ05 | O usuário poderá cadastrar informações extraídas em um banco de dados relacional.|Lista de requisitos|
-| RQ06 | O usuário poderá consultar as informações do banco de dados.|Lista de requisitos|
-| RQ07 | O usuário poderá editar informações do banco de dados.|Lista de requisitos|
-| RQ08 | O usuário poderá deletar informações do banco de dados.|Lista de requisitos|
-| RQ09 | O software não poderá utilizar nenhuma API externa.|Lista de requisitos|
-| RQ10 | A aplicação precisa rodar localmente na máquina.|Lista de requisitos|
-| RQ11 | O software deverá visar a privacidade dos dados, através de um sistema de controle de acesso.|Acordo com o cliente|
-| RQ12 | A aplicação deve conter uma interface minimalista e intuitiva.|Lista de requisitos|
-| RQ13 | O usuário terá acesso à documentação do projeto e aos guias de uso.|Acordo com o cliente|
-| RQ14 | O usuário poderá filtrar os relatório relevantes através das informações-chave do paciente(nome, patologia, etc.).|Acordo com o cliente|
-| RQ15 | O usuário poderá escolher qual modelo  de linguagem e visão irá utilizar. |Acordo com o cliente|
-| RQ16 | O software terá um sistema de autenticação e autorização. |Acordo com o cliente|
-
-
-
+<div align="right">
+  <sub>by Equipe AdaLove - Conectando inovações e criando futuros! 🐙💜</sub>
 </div>
-
-<br>
-
-<br>
-
-## 🐙 Backlog do Produto
-<a id="backlog"></a>
-
-<div align="center">
-      
-|   Rank  |   Requisito   | Prioridade |                          User Story                             | Sprint | Status  |
-| :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----: | :-----: |
-|  1  |  RQ01 - RQ02 | Alta | Como requerente, quero que o sistema extraia informações textuais automaticamente dos documentos para que eu não precise fazer isso manualmente. | 1 | ✅ |
-|  2  | RQ03 - RQ05 | Alta | Como usuário do sistema, quero uma interface simples e intuitiva para cadastrar os documentos no software. | 1 |  ✅  |
-|  3  | RQ02 - RQ04 | Alta | Como usuário do sistema, quero uma interface de exibição dos dados extraídos de maneira estruturada e visual, para agilizar o uso do software. | 1 | ✅ |
-|  4  | RQ05 | Alta | Como cliente, quero que as informações extraídas sejam armazenadas em um banco de dados, para que não haja perda de dados. | 2 |  ✅ |
-|  5  | RQ08 | Média | Como administrador, quero ter a opção de deletar documentos do banco de dados para manter apenas informações relevantes. | 2 | ✅   |
-|  6  |  RQ06  | Média | Como contratante, quero consultar os relatórios já cadastrados no sistema, para otimizar meu trabalho diário e facilitar a tomada de decisões. | 3 | ✅  |
-|  7  |  RQ07  | Média |Como contratante, quero ter a opção de editar as informações extraídas dos relatórios, para corrigir erros ou atualizar informações. | 2 | ✅ |
-|  8  |  RQ15  | Média |Como cliente, quero ter a possibilidade de escolha do modelo de linguagem e visão, buscando a análise mais precisa, para cada caso específico. | 3 | ✅ |
-|  9  |  RQ10  | Média | Como administrador, quero garantir que a aplicação funcione localmente para preservar a privacidade dos dados e reduzir custos. | 2 | ✅ |
-| 10  | RQ11 | Média | Como administrador, quero garantir que os relatórios submetidos estejam protegidos através de sistema controle de acesso para garantir a confidencialidade das informações. | 1 | ✅ |
-| 11 | RQ14 | Baixa | Como requerente, quero filtrar as informações extraídas dos relatórios através dos dados do paciente (nome, sexo, patologia), para que eu possa encontrar facilmente os relatórios. | 3 | ✅  |
-| 12  | RQ16 | Baixa | Como cliente, quero que o sistema possua um sistema de autenticação, visando a permanência dos dados sensíveis no software, bloqueando acesso de usuários não autorizados. | 3 | ✅ |
-| 13  | RQ12 | Baixa | Como usuário, quero que a interface seja otimizada para garantir um uso mais rápido e eficiente do sistema. | 3 | ✅ |
-| 14  | RQ13 | Baixa | Como usuário, quero ter acesso à documentação do projeto, para entender o funcionamento do sistema e facilitar o seu uso. | 4 | ✅  |
-| 15  | RQ02 - RQ05 | Baixa | Como contratante, quero que a equipe de desenvolvimento realize testes no software, para garantir que os dados sejam armazenados e extraídos corretamente. | 4 | ✅ |
-| 16  |  -  | Baixa | Como cliente, quero a otimização do sistema, e a correção de pequenos bugs, visando o uso rápido e eficiente da aplicação. | 4 | ✅ |
-</div>
-
-<br>
-      
-## ⛰️ Roadmap de entregas 
-<a id="roadmap"></a>
-<img align = "center" src = Documentação/Assets/Slides/6.jpg>
-
-
-<br>
-
-<div align="center">
-      
-## 🥇 Equipe 
-<a id="equipe"></a>
-
-<a href="https://github.com/equipeAdalove/Back-API-SEMESTRE2/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=equipeAdalove/Back-API-SEMESTRE2&columns=18" alt="Avatars of all contributors"></a>
-
-
-      
-|      Membro      |    Função     |                            Github                            |                           Linkedin                           |
-| :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Raphaela Monteiro  | Product Owner | <a href="https://github.com/raphaelamonteiro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/raphaelamonteiro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Vitor Ribeiro | Scrum Master | <a href="https://github.com/ribeirovitor04"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Angelina Borroni | Dev Team  | <a href="https://github.com/borroniff"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/angelina-borroni-ferreira-833a4b301/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Celso Rocha | Dev Team | <a href="https://github.com/celsick"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Maria Fernanda Hansen | Dev Team | <a href="https://github.com/Madhs31"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/maria-fernanda-diniz-0724122ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Matheus Germano | Dev Team | <a href="https://github.com/m-germano"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Renan Tomasi | Dev Team | <a href="https://github.com/renan21-tg"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |      
-
-<br>
-
-
-## 🗝️ Docentes: 
-<a id="docentes"></a>
-
-| P²              | M²       |
-| :-------------------: | :-----------: |
-| <a href='http://lattes.cnpq.br/4377240827813491'>Prof° Giuliano Bertoti </a> | <a href='http://lattes.cnpq.br/9330552327454666'>Prof° Cláudio Lima </a> |
-
-
-</div>
-
-
